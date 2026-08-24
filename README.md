@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0085-maximal-rectangle/) | Hard |
+| [0496-next-greater-element-i](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/nikhil-dex/leetcode-solutions/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -22,11 +23,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0085-maximal-rectangle/) | Hard |
+| [0496-next-greater-element-i](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0085-maximal-rectangle/) | Hard |
+| [0496-next-greater-element-i](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -39,4 +42,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0085-maximal-rectangle](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0085-maximal-rectangle/) | Hard |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 <!---LeetCode Topics End-->
