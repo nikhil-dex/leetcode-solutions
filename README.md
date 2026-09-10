@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0084-largest-rectangle-in-histogram](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0225-implement-stack-using-queues](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0496-next-greater-element-i](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/nikhil-dex/leetcode-solutions/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
@@ -80,12 +81,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
