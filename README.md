@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0100-same-tree](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0100-same-tree/) | Easy |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0110-balanced-binary-tree/) | Easy |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0100-same-tree](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0100-same-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -111,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0100-same-tree](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0100-same-tree/) | Easy |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0110-balanced-binary-tree/) | Easy |
@@ -131,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0100-same-tree/) | Easy |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |
