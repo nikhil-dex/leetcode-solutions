@@ -14,23 +14,25 @@
  * }
  */
 class Solution {
-    Set<Integer> set = new HashSet<>();
-    boolean res = false;
     public boolean findTarget(TreeNode root, int k) {
-        inorder(root,k);
-        return res;
+    HashSet<Integer> set = new HashSet<>();
+        return isPairSum(root,k,set);
+    
         
     }
-    public void inorder(TreeNode root,int k){
-        if(root!=null){
-            inorder(root.left,k);
-            set.add(k-root.val);
-            if(set.contains(root.val) && 2*root.val!=k){
-                res = true;
-                return;
-            }
-            inorder(root.right,k);
+    public boolean isPairSum(TreeNode root,int sum,HashSet<Integer> s){
+        if(root==null) return false;
+        if(isPairSum(root.left,sum,s)==true){
+            return true;
         }
+        if(s.contains(sum-root.val)){
+            return true;
+        }else{
+            s.add(root.val);
+        }
+        return isPairSum(root.right,sum,s);
+
     }
+    
 
 }
