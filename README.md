@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0134-gas-station](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0134-gas-station/) | Medium |
 | [0496-next-greater-element-i](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nikhil-dex/leetcode-solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -211,4 +212,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nikhil-dex/leetcode-solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 <!---LeetCode Topics End-->
