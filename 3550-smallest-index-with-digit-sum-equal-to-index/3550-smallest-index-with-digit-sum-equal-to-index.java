@@ -1,6 +1,7 @@
 class Solution {
     public int smallestIndex(int[] nums) {
-        for (int i = 0; i < nums.length; i++) {
+        int n = nums.length;
+        for (int i = 0; i < n; i++) {
             int m = nums[i];
             int val = 0;
             while (m > 0) {
