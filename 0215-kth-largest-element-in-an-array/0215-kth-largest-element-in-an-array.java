@@ -12,8 +12,6 @@ class Solution {
             k--;
         }
         return res;
-
-        
     }
  
 }
