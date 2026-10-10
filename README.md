@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0085-maximal-rectangle](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0134-gas-station](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0134-gas-station/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0496-next-greater-element-i](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nikhil-dex/leetcode-solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Monotonic Stack
@@ -165,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -211,9 +213,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nikhil-dex/leetcode-solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
