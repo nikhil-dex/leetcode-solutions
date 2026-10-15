@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0134-gas-station](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0134-gas-station/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0496-next-greater-element-i](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nikhil-dex/leetcode-solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nikhil-dex/leetcode-solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/nikhil-dex/leetcode-solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Monotonic Stack
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nikhil-dex/leetcode-solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -251,4 +253,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nikhil-dex/leetcode-solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nikhil-dex/leetcode-solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 <!---LeetCode Topics End-->
