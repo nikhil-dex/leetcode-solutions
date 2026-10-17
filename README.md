@@ -132,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0207-course-schedule](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0207-course-schedule/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
@@ -180,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0100-same-tree](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0100-same-tree/) | Easy |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0207-course-schedule](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0207-course-schedule/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0513-find-bottom-left-tree-value](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
@@ -261,4 +263,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nikhil-dex/leetcode-solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0207-course-schedule/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0207-course-schedule/) | Medium |
+## Directed Acyclic Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0207-course-schedule/) | Medium |
 <!---LeetCode Topics End-->
