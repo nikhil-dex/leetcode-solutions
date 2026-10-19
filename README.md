@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0134-gas-station](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0134-gas-station/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0496-next-greater-element-i](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
+| [1584-min-cost-to-connect-all-points](https://github.com/nikhil-dex/leetcode-solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nikhil-dex/leetcode-solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nikhil-dex/leetcode-solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/nikhil-dex/leetcode-solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
@@ -274,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0207-course-schedule/) | Medium |
+| [1584-min-cost-to-connect-all-points](https://github.com/nikhil-dex/leetcode-solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -282,4 +284,24 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0207-course-schedule/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/nikhil-dex/leetcode-solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Minimum Spanning Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/nikhil-dex/leetcode-solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Prim's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/nikhil-dex/leetcode-solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Kruskal's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/nikhil-dex/leetcode-solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Borůvka's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/nikhil-dex/leetcode-solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 <!---LeetCode Topics End-->
