@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/nikhil-dex/leetcode-solutions/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 ## Stack
@@ -23,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/nikhil-dex/leetcode-solutions/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -212,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0222-count-complete-tree-nodes/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -239,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nikhil-dex/leetcode-solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/nikhil-dex/leetcode-solutions/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 ## Heap (Priority Queue)
