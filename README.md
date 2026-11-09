@@ -182,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0023-merge-k-sorted-lists](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0203-remove-linked-list-elements/) | Easy |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nikhil-dex/leetcode-solutions/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -247,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nikhil-dex/leetcode-solutions/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nikhil-dex/leetcode-solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/nikhil-dex/leetcode-solutions/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 ## Heap (Priority Queue)
