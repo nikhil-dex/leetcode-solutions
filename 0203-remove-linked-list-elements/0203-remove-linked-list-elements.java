@@ -14,10 +14,10 @@ class Solution {
         if(head==null){
             return null;
         }
-        if(head.val==val){
-            return removeElements(head.next,val);
-        }
         head.next = removeElements(head.next,val);
+        if(head.val==val){
+            head = head.next;
+        }
         return head;
         
 
