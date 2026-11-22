@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0067-add-binary](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nikhil-dex/leetcode-solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/nikhil-dex/leetcode-solutions/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/nikhil-dex/leetcode-solutions/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
